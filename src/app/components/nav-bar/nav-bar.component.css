@@ -1,0 +1,30 @@
+nav{
+    display: flex;
+}
+
+.imgLogo{
+    width: 20%;
+    margin-right: auto;
+}
+
+ul{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+li{
+    display: inline-block;
+    list-style: none;
+    font-weight: bold;
+    padding-left: 30%;
+}
+
+.rrss{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.rrss {
+    margin-left: auto
+}
